@@ -1,3 +1,5 @@
+# Configurar o git
+
 ## Instalar o Atom
 
 - Efeturar download de https://atom.io
